@@ -1,7 +1,7 @@
 How to use this Lua script ?
 -------------------------------
 
-1.    change your dns server to 127.0.0.1
+1.    start it follow this
 
   ```bash
   $ lua dnsserver.lua
