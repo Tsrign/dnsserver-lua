@@ -38,8 +38,3 @@ INSTALL
 ```bash
   sudo luarocks install luasocket
 ```
-
-LICENSE
-----------------------
-
-DNSForwarder is distributed under the MIT license.
